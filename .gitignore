@@ -1,3 +1,10 @@
+# Large files (GitHub file size limits)
+*.mp4
+*.avi
+*.mov
+*.pt
+*.pth
+
 # Python
 __pycache__/
 *.py[cod]
